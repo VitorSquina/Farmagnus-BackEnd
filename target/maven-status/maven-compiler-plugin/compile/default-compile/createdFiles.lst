@@ -1,0 +1,6 @@
+com/farmagnus/farmagnus/FarmagnusApplication.class
+com/farmagnus/farmagnus/user/UserDto.class
+com/farmagnus/farmagnus/config/WebConfig.class
+com/farmagnus/farmagnus/user/User.class
+com/farmagnus/farmagnus/user/UsersRepository.class
+com/farmagnus/farmagnus/controller/UserController.class
