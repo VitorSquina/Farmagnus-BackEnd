@@ -1,9 +1,9 @@
 package com.farmagnus.farmagnus.controller;
 
+import com.farmagnus.farmagnus.Medicamento.Medicamento;
 import com.farmagnus.farmagnus.user.User;
 import com.farmagnus.farmagnus.user.UserDto;
-import com.farmagnus.farmagnus.user.UserRequestDto;
-import com.farmagnus.farmagnus.user.UsersRepository;
+import com.farmagnus.farmagnus.repository.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -17,7 +17,7 @@ public class UserController {
     private UsersRepository repository;
 
     @PostMapping
-    public void saveUser(@RequestBody UserRequestDto data){
+    public void saveUser(@RequestBody Medicamento.UserRequestDto data){
         User userData = new User(data);
         repository.save(userData);
         return;

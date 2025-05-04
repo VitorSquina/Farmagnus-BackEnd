@@ -1,6 +1,12 @@
-com/farmagnus/farmagnus/FarmagnusApplication.class
 com/farmagnus/farmagnus/user/UserDto.class
+com/farmagnus/farmagnus/controller/MedicamentoController.class
 com/farmagnus/farmagnus/config/WebConfig.class
-com/farmagnus/farmagnus/user/User.class
-com/farmagnus/farmagnus/user/UsersRepository.class
+com/farmagnus/farmagnus/repository/MedicamentoRepository.class
+com/farmagnus/farmagnus/Medicamento/Medicamento.class
+com/farmagnus/farmagnus/repository/UsersRepository.class
 com/farmagnus/farmagnus/controller/UserController.class
+com/farmagnus/farmagnus/FarmagnusApplication.class
+com/farmagnus/farmagnus/Medicamento/MedicamentoRequestDto.class
+com/farmagnus/farmagnus/Medicamento/Medicamento$UserRequestDto.class
+com/farmagnus/farmagnus/user/User.class
+com/farmagnus/farmagnus/Medicamento/MedicamentoDto.class

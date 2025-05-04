@@ -1,5 +1,6 @@
 package com.farmagnus.farmagnus.user;
 
+import com.farmagnus.farmagnus.Medicamento.Medicamento;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -27,7 +28,7 @@ public class User {
 
     private String senha;
 
-    public User(UserRequestDto data){
+    public User(Medicamento.UserRequestDto data){
         this.nome_empresa = data.nome_empresa();
         this.nome_responsavel = data.nome_responsavel();
         this.cnpj = data.cnpj();

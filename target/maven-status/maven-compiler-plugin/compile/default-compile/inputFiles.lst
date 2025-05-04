@@ -1,6 +1,11 @@
 /home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/FarmagnusApplication.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/Medicamento/Medicamento.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/Medicamento/MedicamentoDto.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/Medicamento/MedicamentoRequestDto.java
 /home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/config/WebConfig.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/controller/MedicamentoController.java
 /home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/controller/UserController.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/repository/MedicamentoRepository.java
+/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/repository/UsersRepository.java
 /home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/user/User.java
 /home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/user/UserDto.java
-/home/vitor/Projetos/farmagnus/src/main/java/com/farmagnus/farmagnus/user/UsersRepository.java
